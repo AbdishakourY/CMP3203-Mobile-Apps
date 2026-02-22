@@ -13,6 +13,11 @@ This course will be offered in **Edna Adan University** and this site (will) con
 
 
 ## 🛣️ Course Roadmap
+Roadmap Rubric:
+
+- 🟢 Labs are represented by the green tabs
+- ⚪️ Lectures are represented by the white tabs
+
 Few the course roadmap here:
 https://abdishakoury.github.io/android-course-roadmap/
 

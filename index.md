@@ -16,14 +16,14 @@ This site contains lecture slides, laboratory instructions, project guidelines, 
 
 | Week | Topic                              | Materials |
 |------|------------------------------------|-----------|
-| 1    | Introduction to Open-Source & Mobile Development | [Download Slides](https://docs.google.com/presentation/d/15I0xGzOlYnXOTwcaZ6aAe-PIXsVJ4ACGcNkMsqfDX_k/view) |
+| 1 | Introduction to Open-Source & Mobile Development | [Lecture Slides Folder (Google Drive)](https://drive.google.com/drive/folders/1SjbTajCHbHON8XC0VPOgYwtZu5_Q5tOJ) |
 | 2    | Android Development and Environment| Coming Soon |
 
 
 
 ## 🛠 Course Resources
 
-- 🔧 [Lab Setup Guide](.https://developer.android.com/studio)  
+- 🔧 [Android Studio Installation Guide](https://developer.android.com/studio) 
 - 📊 [Final Project Rubric - (coming soon)](./Projects/Rubric.md)  
 - 💻 [GitHub Classroom – (coming soon)](https://your-link-here.com)
 
@@ -38,6 +38,6 @@ Students are expected to:
 - Actively contribute to GitHub repositories  
 - Submit the final open-source mobile project on time  
 
-
+Note: if you have any questions, reach out to your class leader!
 
 <sub>Last updated: {{ site.time | date: "%B %d, %Y" }}</sub>

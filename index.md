@@ -1,15 +1,20 @@
 # 📱 CMP3203: Open-Source Mobile Applications  
 ### Faculty of Computing & IT  
-**Lecturer:** Abdishakur Yusuf  
+**Lecturer:** Abdishakur Yusuf ( _swe & Educator_)
 
-Welcome to the official course resource page for **CMP3203**.  
-This site contains lecture slides, laboratory instructions, project guidelines, and important course updates.
+Welcome to the official course resource page for **CMP3203**.
+This course will be offered in **Edna Adan University** and this site (will) contains lecture resources such as slides, laboratory instructions, project guidelines, and important course updates.
 
 
 ## 📢 Announcements
 
 - **February 22, 2026:** Course website is now live 🎉  
 - **Next Class Reminder:** Please ensure **Android Studio** is installed before attending (OPTIONAL but not required).
+
+
+## 🛣️ Course Roadmap
+Few the course roadmap here:
+https://abdishakoury.github.io/android-course-roadmap/
 
 
 ## 📅 Course Schedule

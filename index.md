@@ -19,6 +19,7 @@ Roadmap Rubric:
 - ⚪️ Lectures are represented by the white tabs
 
 Few the course roadmap here:
+
 https://abdishakoury.github.io/android-course-roadmap/
 
 
